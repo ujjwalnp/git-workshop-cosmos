@@ -1,2 +1,3 @@
-Name: [Your Name]
-Bio: [A brief bio about yourself]
+Name: Aayush giri
+Bio: 
+I am passionate about coding and enjoy building websites, including e-commerce platforms. I have skills in HTML, CSS, JavaScript, C, and C++. I love helping others with studies, especially in math and coding, and I enjoy making complex topics easier to understand. In my free time, I like to write poetry and explore creative ideas.

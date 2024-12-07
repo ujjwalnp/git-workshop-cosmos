@@ -1,2 +1,5 @@
-Name: [Your Name]
-Bio: [A brief bio about yourself]
+Name: Mritunjay Shah
+Bio: I am a student at Cosmos College, part of the 2023 batch,
+pursuing a Bachelor's degree in Computer Engineering.
+My passion lies in the ever-evolving tech world.
+Currently, my permanent address is Garuda-4, Rautahat, Nepal, but I am temporarily residing in Satdobato, Lalitpur

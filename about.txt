@@ -1,2 +1,2 @@
-Name: [Your Name]
-Bio: [A brief bio about yourself]
+Name:Jamuna BC
+Bio:I enjoy coding and creating websites. I know C,Java and C++. I also like helping others and learning new things.

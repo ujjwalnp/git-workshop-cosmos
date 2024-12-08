@@ -1,2 +1,7 @@
-Name: [Your Name]
-Bio: [A brief bio about yourself]
+Name: Kushal Prasad Joshi
+
+Bio: BCE 2023 Computer Batch
+
+Computer Engineering Student | Python | Excel | MySQL | Data Science Lerner | Machine Learning Enthusiast
+
+https://np.linkedin.com/in/kushal-prasad-joshi

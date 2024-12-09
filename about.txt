@@ -1,2 +1,2 @@
-Name: [Your Name]
-Bio: [A brief bio about yourself]
+Name: Aashis Jha  
+Bio:I am a computer science engineering student at Cosmos College of Management and Technology. My name is Aashis Jha, and I am from Janakpur. I completed my +2 from Dhanusha Science Campus and schooling from Shri Mahendra Rashtriya Higher Secondary School. My hobbies include listening to Music and learning new things. I specialize in software engineering, ethical hacking, and system security, with a keen interest in AI and full stack development. I actively create content on coding, tech blogs, and more.
